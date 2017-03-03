@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LaunchScreen/MainForm.ui.qml</file>
+        <file>LaunchScreen/GitDirectorySelect.qml</file>
+        <file>LaunchScreen/RepositoryList.qml</file>
+        <file>RepositoryMain/RepositoryMainForm.ui.qml</file>
+        <file>Fonts/fontawesome-webfont.ttf</file>
+        <file>RepositoryMain/NavigationList.qml</file>
+        <file>RepositoryMain/RepositoryViewLoader.qml</file>
+        <file>RepositoryMain/History/History.qml</file>
+        <file>RepositoryMain/History/HistoryForm.ui.qml</file>
+    </qresource>
+</RCC>

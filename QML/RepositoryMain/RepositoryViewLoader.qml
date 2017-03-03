@@ -1,5 +1,7 @@
 import QtQuick 2.0
 
-Item {
-
+Loader {
+    id: mainView
+    source: "/RepositoryMain/History/HistoryForm.ui.qml"
 }
+
